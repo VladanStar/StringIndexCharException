@@ -1,0 +1,2 @@
+# StringIndexCharException
+Exception try catch
